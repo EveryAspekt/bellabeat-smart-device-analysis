@@ -1,17 +1,12 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+This project is based on the Bellabeat case study from the Google Data Analytics Professional Certificate. The objective was to analyze smart device usage data to identify consumer behavior trends and develop data-driven marketing recommendations for Bellabeat.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Physical Activity Patterns**
+- **Sleep Tracking Behavior**
+- **Device Engagement**
+- **Marketing Opportunities**
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 

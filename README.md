@@ -18,11 +18,19 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The Fitbit dataset was provided as multiple CSV files containing daily, hourly, and minute-level fitness tracking data from 30 users.
+
+The primary datasets used in this analysis were:
+
+| Dataset | Description | Key Fields |
+|----------|------------|------------|
+| Daily Activity | Daily activity metrics | Id, ActivityDate |
+| Sleep Data | Sleep tracking records | Id, SleepDay |
+| Hourly Steps | Hourly step counts | Id, ActivityHour |
+| Hourly Calories | Hourly calorie expenditure | Id, ActivityHour |
+| Weight Log | Weight and BMI measurements | Id, Date |
+
+The datasets share a common user identifier (`Id`) and can be linked through corresponding date and timestamp fields.
 
 [Entity Relationship Diagram here]
 

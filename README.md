@@ -20,6 +20,12 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 The Fitbit dataset was provided as multiple CSV files containing daily, hourly, and minute-level fitness tracking data from 30 users.
 
+The raw data was distributed across two collection periods:
+
+- March 12, 2016 – April 11, 2016
+- April 12, 2016 – May 12, 2016
+
+Files representing the same metric were provided separately for each collection period and were later combined during data preparation to create a continuous observation window.
 The primary datasets used in this analysis were:
 
 | Dataset | Description | Key Fields |

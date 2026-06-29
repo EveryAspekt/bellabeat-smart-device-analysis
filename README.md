@@ -1,18 +1,16 @@
 # Project Background
-This project is based on the Bellabeat case study from the Google Data Analytics Professional Certificate. The objective was to analyze smart device usage data to identify consumer behavior trends and develop data-driven marketing recommendations for Bellabeat.
+This project is based on the Bellabeat case study from the Google Data Analytics Professional Certificate. The objective was to analyze smart device usage data to identify consumer behavior patterns and develop data-driven marketing recommendations for Bellabeat.
 
-Insights and recommendations are provided on the following key areas:
+The analysis focuses on the following key business areas:
 
 - **Physical Activity Patterns**
 - **Sleep Tracking Behavior**
 - **Device Engagement**
-- **Marketing Opportunities**
+- **Key Business Recommendations**
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The Excel workbook used for data cleaning, validation, and exploratory analysis can be found here: [Excel Workbook].
 
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+An interactive Tableau dashboard used to visualize and explore the key findings can be found here: [Tableau Dashboard].
 
 
 
